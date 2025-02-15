@@ -14,6 +14,6 @@ click[here](https://waseqx.github.io/profile/) to see my Demo
 
 ##  Contact Me
 - 📧 Email: [Email](mailto:waseq23x@gmail.com)
-- 🔗 LinkedIn: [linkedin]( http://linkedin.com/in/waseq333 )
+- 🔗 LinkedIn: [linkedin](://http://linkedin.com/in/waseq333 )
 
 Let's build something amazing together! ✨
